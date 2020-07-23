@@ -1,0 +1,8 @@
+[2020-07-23T03:29:23.791Z] INFO: This is an information about something.
+[2020-07-23T03:29:23.792Z] ERROR: We can't divide any numbers by zero.
+[2020-07-23T03:29:23.792Z] NOTICE: Someone loves your status.
+[2020-07-23T03:29:23.792Z] WARNING: Insufficient funds.
+[2020-07-23T03:29:23.792Z] DEBUG: This is debug message.
+[2020-07-23T03:29:23.792Z] ALERT: Achtung! Achtung!
+[2020-07-23T03:29:23.793Z] CRITICAL: Medic!! We've got critical damages.
+[2020-07-23T03:29:23.793Z] EMERGENCY: System hung. Contact system administrator immediately!
